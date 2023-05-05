@@ -1,7 +1,7 @@
 <h2 align="left">Hey 👋,Nice to see you.</h2>
 
 ###
-   
+
 <br clear="both">
 
 <p align="left">I am a Full Stack Developer with a huge love for HTML, CSS, Javascript, Vue.js, Laravel, Headless Tech, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.</p>
