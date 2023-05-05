@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">I am a Full Stack Developer with a huge love for HTML, CSS, Javascript, Vue.js, Laravel, Headless Tech, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.</p>
 
 ###
@@ -30,8 +28,7 @@
 
 <h3 align="left">Connect with me.</h3>
 
-##
-<br clear="both">
+###
 
 <div align="left">
   <a href="https://www.facebook.com/sujonmia019" target="_blank">
