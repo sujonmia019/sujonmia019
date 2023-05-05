@@ -7,7 +7,9 @@
 <p align="left">I am a Full Stack Developer with a huge love for HTML, CSS, Javascript, Vue.js, Laravel, Headless Tech, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.</p>
 
 ###
+<h3 align="left">Technology:</h3>
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
