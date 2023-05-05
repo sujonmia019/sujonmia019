@@ -8,11 +8,11 @@
 
 ###
 
-<p align="center">Full Stack Web Developer</p>
+<h3 align="center">Full Stack Web Developer</h3>
 
 ###
 
-<p align="left">Connect with me.</p>
+<h3 align="left">Connect with me.</h3>
 
 ###
 
