@@ -27,10 +27,10 @@
 
 ###
 
+
 <h3 align="left">Connect with me.</h3>
 
-###
-
+##
 <br clear="both">
 
 <div align="left">
